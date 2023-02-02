@@ -1,0 +1,6 @@
+print([address_machine(name,hs_number_street) for name, hs_house_number, town, postcode in zip(name, hs_number_street , town , postcode)])
+
+newlist.append(client)
+streetNumb
+
+
